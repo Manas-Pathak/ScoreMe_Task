@@ -33,5 +33,4 @@ Install the required libraries via `pip`.
 ```bash
   pip install pdfplumber pandas openpyxl
 
-
     ---
