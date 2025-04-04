@@ -1,5 +1,5 @@
 # Detecting and Extracting Tables from PDFs
-
+## [Project Report:](https://docs.google.com/document/d/1vJPrbR8V85enazd-zzrMQLVAqMFyE7TN2t6shS80P1s/edit?usp=sharing) 
 ## Overview
 This project was developed as part of the **ScoreMe Hackathon Assignment** at **NIT Allahabad**. It focuses on detecting and extracting tables from system-generated PDFs, handling both regular and irregular shapes of tables, preserving the tabular data in **Excel files**. The solution adheres to the following constraints:
 - **Does not use Tabula or Camelot**.
@@ -31,5 +31,7 @@ The project is implemented using Python and requires the following libraries:
 Install the required libraries via `pip`.
 
 ```bash
-pip install pdfplumber pandas openpyxl
+  pip install pdfplumber pandas openpyxl
 
+
+    ---
